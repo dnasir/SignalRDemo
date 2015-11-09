@@ -1,0 +1,26 @@
+{
+    "name": "SignalRDemo",
+    "version": "0.1.0",
+    "authors": [
+        "Dzulqarnain Nasir <dzul1983@gmail.com>"
+    ],
+    "description": "",
+    "main": "",
+    "moduleType": [ ],
+    "license": "MIT",
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "^2.1.4",
+        "signalr": "^2.2.0",
+        "angular": "^1.4.7",
+        "angular-signalr-hub": "^1.5.0",
+        "angular-google-maps": "^2.2.1"
+    }
+}
